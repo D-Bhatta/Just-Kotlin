@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Just Kotlin</string>
+
+    <!--    activity_main.xml    -->
+    <string name="quantity">quantity</string>
+    <string name="textview_quantity">0</string>
+    <string name="buttonview_order">order</string>
+
 </resources>
